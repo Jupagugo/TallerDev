@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*h1 {
+    font-family: 'Open Sans', sans-serif;
+
+        font-size: 50px;
+        color: #fff;
+        text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+        color: white;
+}
+
+th {
+    font-family: 'Open Sans', sans-serif;
+
+        font-size: 20px;
+        color: #fff;
+        text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+        color: white;
+}
+
+table{
+    
+    font-size: 50px;
+        color: #fff;
+        text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+        color: white;
+    
+
+    
+}*/
+
+body h1 {
+    font-family: 'Open Sans', sans-serif;
+
+        font-size: 50px;
+        color: #fff;
+        text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+        color: white;
+}
+
+body tr{
+
+    color: black;
+}
+
+.tabla{
+    
+    font-size: 20px;
+        color: #fff;
+        text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+        color: white;
+        background-color: #fff;
+    
+
+    
+}
+
+body{
+    background-image: url('https://media4.giphy.com/media/dKTJvjV16COKNAhLJV/giphy.gif?cid=ecf05e47tc3dzk19fg8oxg01gs7zrwyx1f7a1i9oo08n4ahm&rid=giphy.gif&ct=g');
+    width: 100%;
+    height: 600px;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+
+    
+}
